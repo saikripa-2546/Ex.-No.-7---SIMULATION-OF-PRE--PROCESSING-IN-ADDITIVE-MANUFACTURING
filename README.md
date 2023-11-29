@@ -40,7 +40,7 @@
 
 ## OUTPUT:
 ![Screenshot 2023-11-29 081002](https://github.com/PuliNagaNeeraj/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/58aad3b1-f111-46f4-a8c1-2d027c45b1ff)
-![Screenshot 2023-11-29 081146](https://github.com/PuliNagaNeeraj/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/7368ab39-b9ab-4a27-83ac-f494e43e6cba)
+![image](https://github.com/PuliNagaNeeraj/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/d49dee35-49ad-4656-b542-bea6bb73025f)
 ![image](https://github.com/PuliNagaNeeraj/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/48ff7b3e-55ca-43e8-be2d-465ca1f702c1)
 
 
