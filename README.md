@@ -1,5 +1,5 @@
 # Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 07.11.2023
+### DATE: 20.12.2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -49,8 +49,8 @@
 
 ![image](https://github.com/PuliNagaNeeraj/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849173/e0856ed0-bbd2-47ac-a9fc-8b7f14e9c7d2)
 
-### Name: PULI NAGA NEERAJ
-### Register Number: 23004033
+### Name: Sai Kripa SK
+### Register Number: 24005319
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
